@@ -5,7 +5,7 @@
       <h1 class="logo">AutoFuture</h1>
       <button class="cyber-button" @click="goToAdminPage">
         <span class="icon">🛸</span>
-        <span class="glow-text">管理员页面</span>
+        <span class="glow-text">管理员中心</span>
       </button>
     </nav>
 
